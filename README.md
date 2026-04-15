@@ -1,62 +1,105 @@
+<!-- ===== HERO ===== -->
 <h1 align="center">I am Ayush Shrivastava</h1>
 
 <p align="center">
-A passionate developer from BML Munjal University
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=800&lines=A+passionate+developer+from+BML+Munjal+University;AI+%7C+Game+Dev+%7C+Full-Stack+%7C+Problem+Solver;Building+cool+things+that+look+like+magic" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/nikhilkumarsingh/nikhilkumarsingh/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=makeporium&theme=dark" alt="3D contribution graph" />
 </p>
 
 ---
 
-<h2>🚀 Languages and Tools I Use</h2>
+<!-- ===== ABOUT ===== -->
+<h2 align="center">⚡ About Me</h2>
 
-<!-- Languages -->
-<h3>💻 Languages</h3>
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42"/></a>
+<p align="center">
+  I build software with a focus on systems, interfaces, and intelligent tools.<br/>
+  Interested in AI, game development, and clean engineering.
 </p>
 
-<!-- Web / Core -->
-<h3>🌐 Web & Core</h3>
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42"/></a>
-</p>
-
-<!-- ML / Data -->
-<h3>🤖 AI / ML</h3>
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/></a>
-  <a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42"/></a>
-</p>
-
-<!-- Tools -->
-<h3>🛠️ Tools & Frameworks</h3>
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="42"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" width="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="42"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42"/></a>
-</p>
-
-<!-- Game Dev -->
-<h3>🎮 Game Development</h3>
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="42"/></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=makeporium&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/makeporium?label=Followers&style=flat&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/makeporium?label=Stars&style=flat&color=yellow" alt="stars" />
 </p>
 
 ---
 
-<h2>⚡️ Where to find me</h2>
+<!-- ===== SKILLS ===== -->
+<h2 align="center">🚀 Languages and Tools I Use</h2>
 
-<p>
-  <a href="https://www.linkedin.com/in/ayush-shrivastava-9439a232b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Shrivastava-blue?style=for-the-badge&logo=linkedin"/>
+<h3 align="center">💻 Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,html,css,js,ts&perline=9" />
+</p>
+
+<h3 align="center">🧠 AI / Data</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas&perline=8" />
+</p>
+
+<h3 align="center">🛠️ Frameworks / Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,selenium,figma,git,github,vscode,qt&perline=8" />
+</p>
+
+<h3 align="center">🎮 Game Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,unreal&perline=8" />
+</p>
+
+---
+
+<!-- ===== STATS ===== -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makeporium&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makeporium&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=makeporium&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=makeporium&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="trophies" />
+</p>
+
+---
+
+<!-- ===== CONTACT ===== -->
+<h2 align="center">⚡ Where to find me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-shrivastava-9439a232b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Shrivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/makeporium" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-makeporium-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+---
+
+<!-- ===== TERMINAL STYLE BLOCK ===== -->
+<h2 align="center">⌘ Terminal</h2>
+
+```bash
+> whoami
+Ayush Shrivastava
+
+> role
+Developer / Builder / Experimenter
+
+> current_focus
+AI, game dev, clean UIs, and strong fundamentals
+
+> motto
+If it compiles, it is closer to greatness.
