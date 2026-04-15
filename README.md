@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/nikhilkumarsingh/nikhilkumarsingh/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/makeporium/makeporium/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <p align="center">
