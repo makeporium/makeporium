@@ -61,10 +61,6 @@
   <img src="https://streak-stats.demolab.com?user=makeporium&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=makeporium&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="trophies" />
-</p>
-
 ---
 
 <!-- ===== CONTACT ===== -->
