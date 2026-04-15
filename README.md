@@ -5,13 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=800&lines=A+passionate+developer+from+BML+Munjal+University;AI+%7C+Game+Dev+%7C+Full-Stack+%7C+Problem+Solver;Building+cool+things+that+look+like+magic" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/makeporium/makeporium/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=makeporium&theme=dark" alt="3D contribution graph" />
-</p>
 
 ---
 
