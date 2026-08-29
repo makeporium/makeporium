@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=building+things+from+scratch;turning+ideas+into+software;learning+something+new+every+day" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=building+things+from+scratch;turning+ideas+into+software;learning+by+building" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -16,21 +16,15 @@
   <a href="https://github.com/makeporium">
     <img src="https://img.shields.io/github/followers/makeporium?label=followers&style=flat-square&color=555555" alt="Followers" />
   </a>
-  &nbsp;
-  <a href="https://github.com/makeporium?tab=repositories">
-    <img src="https://img.shields.io/badge/repos-explore-555555?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
-  </a>
 </p>
 
 ---
 
 ## About
 
-I'm a developer from **BML Munjal University** who enjoys understanding how things work and then building them from the ground up.
+I'm a developer from **BML Munjal University** interested in software engineering, AI, game development and interactive applications.
 
-My interests sit somewhere between software engineering, AI, game development and interactive applications.
-
-I like projects that are challenging enough to make me say:
+I enjoy understanding how things work and building them from the ground up.
 
 > "I have no idea how I'm going to build this yet."
 
@@ -64,32 +58,33 @@ I like projects that are challenging enough to make me say:
 
 ---
 
-## What I'm Working On
+## Currently
 
 ```text
 AI              experimenting with intelligent systems
 Game Dev        building interactive experiences
 Full-Stack      creating complete applications
-Systems         understanding what's happening underneath
-Problem Solving learning by actually building things
+Systems         understanding what happens underneath
+Problem Solving learning by building
 ```
 
 ---
 
-## GitHub
+## GitHub Streak
 
 <p align="center">
   <a href="https://github.com/makeporium">
-    <img src="https://img.shields.io/badge/GitHub-makeporium-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <a href="https://streak-stats.demolab.com/?user=makeporium">
-    <img src="https://img.shields.io/badge/GitHub%20Streak-view-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
+    <img
+      src="https://streak-stats.demolab.com/?user=makeporium&theme=github-dark-blue&hide_border=true"
+      alt="GitHub Streak"
+    />
   </a>
 </p>
 
 <p align="center">
-  <i>Code consistently. Build deliberately.</i>
+  <a href="https://github.com/makeporium">
+    <img src="https://img.shields.io/badge/VIEW%20PROFILE-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile" />
+  </a>
 </p>
 
 ---
