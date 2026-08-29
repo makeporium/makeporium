@@ -92,3 +92,4 @@ AI, game dev, clean UIs, and strong fundamentals
 
 > motto
 If it compiles, it is closer to greatness.
+'''
